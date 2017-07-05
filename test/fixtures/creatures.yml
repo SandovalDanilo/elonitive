@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dexterity: 1
+  alert_feat: false
+
+two:
+  name: MyString
+  dexterity: 1
+  alert_feat: false
